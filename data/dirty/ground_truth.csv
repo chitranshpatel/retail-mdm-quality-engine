@@ -1,0 +1,252 @@
+gt_id,table_name,record_id,error_type,severity,downstream_impact,field_changed,old_value,new_value
+GT00001,promotion_item,PIT000388,referential_integrity,Critical,Promo fails to load; price file rejects record,article_id,ART00544,ART99628
+GT00002,promotion_item,PIT000149,referential_integrity,Critical,Promo fails to load; price file rejects record,article_id,ART00449,ART99440
+GT00003,promotion_item,PIT000144,referential_integrity,Critical,Promo fails to load; price file rejects record,article_id,ART00120,ART99513
+GT00004,promotion_item,PIT000493,referential_integrity,Critical,Promo fails to load; price file rejects record,article_id,ART00472,ART99266
+GT00005,promotion_item,PIT000492,referential_integrity,Critical,Promo fails to load; price file rejects record,article_id,ART00507,ART99496
+GT00006,promotion_item,PIT000369,referential_integrity,Critical,Promo fails to load; price file rejects record,article_id,ART00545,ART99378
+GT00007,promotion_item,PIT000221,referential_integrity,Critical,Promo fails to load; price file rejects record,article_id,ART00494,ART99247
+GT00008,promotion_item,PIT000421,referential_integrity,Critical,Promo fails to load; price file rejects record,article_id,ART00251,ART99992
+GT00009,promotion_item,PIT000137,referential_integrity,Critical,Promo fails to load; price file rejects record,article_id,ART00016,ART99011
+GT00010,promotion_item,PIT000274,referential_integrity,Critical,Promo fails to load; price file rejects record,article_id,ART00209,ART99097
+GT00011,promotion_item,PIT000445,referential_integrity,Critical,Promo fails to load; price file rejects record,article_id,ART00299,ART99192
+GT00012,promotion_item,PIT000295,referential_integrity,Critical,Promo fails to load; price file rejects record,article_id,ART00380,ART99968
+GT00013,promotion_item,PIT000107,referential_integrity,Critical,Promo fails to load; price file rejects record,article_id,ART00123,ART99691
+GT00014,promotion_item,PIT000440,referential_integrity,Critical,Promo fails to load; price file rejects record,article_id,ART00334,ART99880
+GT00015,promotion_item,PIT000323,referential_integrity,Critical,Promo fails to load; price file rejects record,article_id,ART00294,ART99200
+GT00016,promotion_item,PIT000400,referential_integrity,Critical,Promo fails to load; price file rejects record,article_id,ART00275,ART99720
+GT00017,promotion_item,PIT000425,referential_integrity,Critical,Promo fails to load; price file rejects record,article_id,ART00119,ART99369
+GT00018,promotion_item,PIT000026,referential_integrity,Critical,Promo fails to load; price file rejects record,article_id,ART00555,ART99488
+GT00019,promotion_item,PIT000168,referential_integrity,Critical,Promo fails to load; price file rejects record,article_id,ART00075,ART99003
+GT00020,promotion_item,PIT000397,referential_integrity,Critical,Promo fails to load; price file rejects record,article_id,ART00117,ART99616
+GT00021,promotion_item,PIT000126,referential_integrity,Critical,Promo fails to load; price file rejects record,article_id,ART00292,ART99829
+GT00022,promotion_item,PIT000399,referential_integrity,Critical,Promo fails to load; price file rejects record,article_id,ART00278,ART99663
+GT00023,promotion_item,PIT000058,referential_integrity,Critical,Promo fails to load; price file rejects record,article_id,ART00010,ART99154
+GT00024,promotion_item,PIT000229,referential_integrity,Critical,Promo fails to load; price file rejects record,article_id,ART00389,ART99533
+GT00025,promotion_item,PIT000356,referential_integrity,Critical,Promo fails to load; price file rejects record,article_id,ART00111,ART99267
+GT00026,promotion_item,PIT000002,referential_integrity,Critical,Promo fails to load; price file rejects record,article_id,ART00371,ART99963
+GT00027,promotion_item,PIT000238,referential_integrity,Critical,Promo fails to load; price file rejects record,article_id,ART00428,ART99879
+GT00028,promotion_item,PIT000064,referential_integrity,Critical,Promo fails to load; price file rejects record,article_id,ART00148,ART99186
+GT00029,promotion_item,PIT000242,referential_integrity,Critical,Promo fails to load; price file rejects record,article_id,ART00142,ART99509
+GT00030,article_master,ART00165,referential_timing,High,Promo advertised on an article stores can no longer order,status,active,discontinued (after promo item_start)
+GT00031,article_master,ART00323,referential_timing,High,Promo advertised on an article stores can no longer order,status,active,discontinued (after promo item_start)
+GT00032,article_master,ART00557,referential_timing,High,Promo advertised on an article stores can no longer order,status,active,discontinued (after promo item_start)
+GT00033,article_master,ART00300,referential_timing,High,Promo advertised on an article stores can no longer order,status,active,discontinued (after promo item_start)
+GT00034,article_master,ART00098,referential_timing,High,Promo advertised on an article stores can no longer order,status,active,discontinued (after promo item_start)
+GT00035,article_master,ART00387,referential_timing,High,Promo advertised on an article stores can no longer order,status,active,discontinued (after promo item_start)
+GT00036,article_master,ART00404,referential_timing,High,Promo advertised on an article stores can no longer order,status,active,discontinued (after promo item_start)
+GT00037,article_master,ART00062,referential_timing,High,Promo advertised on an article stores can no longer order,status,active,discontinued (after promo item_start)
+GT00038,article_master,ART00416,referential_timing,High,Promo advertised on an article stores can no longer order,status,active,discontinued (after promo item_start)
+GT00039,article_master,ART00291,referential_timing,High,Promo advertised on an article stores can no longer order,status,active,discontinued (after promo item_start)
+GT00040,article_master,ART00159,referential_timing,High,Promo advertised on an article stores can no longer order,status,active,discontinued (after promo item_start)
+GT00041,article_master,ART00454,referential_timing,High,Promo advertised on an article stores can no longer order,status,active,discontinued (after promo item_start)
+GT00042,article_master,ART00527,referential_timing,High,Promo advertised on an article stores can no longer order,status,active,discontinued (after promo item_start)
+GT00043,article_master,ART00384,referential_timing,High,Promo advertised on an article stores can no longer order,status,active,discontinued (after promo item_start)
+GT00044,article_master,ART00200,referential_timing,High,Promo advertised on an article stores can no longer order,status,active,discontinued (after promo item_start)
+GT00045,article_master,ART00545,referential_timing,High,Promo advertised on an article stores can no longer order,status,active,discontinued (after promo item_start)
+GT00046,article_master,ART00323,referential_timing,High,Promo advertised on an article stores can no longer order,status,discontinued,discontinued (after promo item_start)
+GT00047,article_master,ART00221,referential_timing,High,Promo advertised on an article stores can no longer order,status,active,discontinued (after promo item_start)
+GT00048,article_master,ART00576,referential_timing,High,Promo advertised on an article stores can no longer order,status,active,discontinued (after promo item_start)
+GT00049,article_master,ART00143,referential_timing,High,Promo advertised on an article stores can no longer order,status,active,discontinued (after promo item_start)
+GT00050,article_master,ART00479,referential_timing,High,Promo advertised on an article stores can no longer order,status,active,discontinued (after promo item_start)
+GT00051,article_master,ART00525,referential_timing,High,Promo advertised on an article stores can no longer order,status,active,discontinued (after promo item_start)
+GT00052,article_master,ART00107,referential_timing,High,Promo advertised on an article stores can no longer order,status,active,discontinued (after promo item_start)
+GT00053,promotion_item,PIT000270,listing_conflict,High,Advertised deal a customer physically can't buy in that store,listing_row,listed,removed (delisted)
+GT00054,promotion_item,PIT000106,listing_conflict,High,Advertised deal a customer physically can't buy in that store,listing_row,listed,removed (delisted)
+GT00055,promotion_item,PIT000029,listing_conflict,High,Advertised deal a customer physically can't buy in that store,listing_row,listed,removed (delisted)
+GT00056,promotion_item,PIT000134,listing_conflict,High,Advertised deal a customer physically can't buy in that store,listing_row,listed,removed (delisted)
+GT00057,promotion_item,PIT000092,listing_conflict,High,Advertised deal a customer physically can't buy in that store,listing_row,listed,removed (delisted)
+GT00058,promotion_item,PIT000069,listing_conflict,High,Advertised deal a customer physically can't buy in that store,listing_row,listed,removed (delisted)
+GT00059,promotion_item,PIT000271,listing_conflict,High,Advertised deal a customer physically can't buy in that store,listing_row,listed,removed (delisted)
+GT00060,promotion_item,PIT000186,listing_conflict,High,Advertised deal a customer physically can't buy in that store,listing_row,listed,removed (delisted)
+GT00061,promotion_item,PIT000448,listing_conflict,High,Advertised deal a customer physically can't buy in that store,listing_row,listed,removed (delisted)
+GT00062,promotion_item,PIT000280,listing_conflict,High,Advertised deal a customer physically can't buy in that store,listing_row,listed,removed (delisted)
+GT00063,promotion_item,PIT000475,listing_conflict,High,Advertised deal a customer physically can't buy in that store,listing_row,listed,removed (delisted)
+GT00064,promotion_item,PIT000087,listing_conflict,High,Advertised deal a customer physically can't buy in that store,listing_row,listed,removed (delisted)
+GT00065,promotion_item,PIT000432,listing_conflict,High,Advertised deal a customer physically can't buy in that store,listing_row,listed,removed (delisted)
+GT00066,promotion_item,PIT000118,listing_conflict,High,Advertised deal a customer physically can't buy in that store,listing_row,listed,removed (delisted)
+GT00067,promotion_item,PIT000317,listing_conflict,High,Advertised deal a customer physically can't buy in that store,listing_row,listed,removed (delisted)
+GT00068,promotion_item,PIT000487,listing_conflict,High,Advertised deal a customer physically can't buy in that store,listing_row,listed,removed (delisted)
+GT00069,promotion_item,PIT000204,listing_conflict,High,Advertised deal a customer physically can't buy in that store,listing_row,listed,removed (delisted)
+GT00070,promotion_item,PIT000207,listing_conflict,High,Advertised deal a customer physically can't buy in that store,listing_row,listed,removed (delisted)
+GT00071,promotion_item,PIT000287,listing_conflict,High,Advertised deal a customer physically can't buy in that store,listing_row,listed,removed (delisted)
+GT00072,promotion_item,PIT000315,listing_conflict,High,Advertised deal a customer physically can't buy in that store,listing_row,listed,removed (delisted)
+GT00073,promotion_item,PIT000361,listing_conflict,High,Advertised deal a customer physically can't buy in that store,listing_row,listed,removed (delisted)
+GT00074,promotion_item,PIT000267,listing_conflict,High,Advertised deal a customer physically can't buy in that store,listing_row,listed,removed (delisted)
+GT00075,promotion_item,PIT000023,listing_conflict,High,Advertised deal a customer physically can't buy in that store,listing_row,listed,removed (delisted)
+GT00076,promotion_item,PIT000184,listing_conflict,High,Advertised deal a customer physically can't buy in that store,listing_row,listed,removed (delisted)
+GT00077,promotion_item,PIT000119,listing_conflict,High,Advertised deal a customer physically can't buy in that store,listing_row,listed,removed (delisted)
+GT00078,promotion_item,PIT000457,listing_conflict,High,Advertised deal a customer physically can't buy in that store,listing_row,listed,removed (delisted)
+GT00079,promotion_item,PIT000206,header_item_date_mismatch,Medium,"Item prices live when the campaign isn't, or vice versa",item_end,2026-05-13,2026-05-17
+GT00080,promotion_item,PIT000152,header_item_date_mismatch,Medium,"Item prices live when the campaign isn't, or vice versa",item_end,2026-04-08,2026-04-17
+GT00081,promotion_item,PIT000418,header_item_date_mismatch,Medium,"Item prices live when the campaign isn't, or vice versa",item_end,2026-04-15,2026-04-23
+GT00082,promotion_item,PIT000248,header_item_date_mismatch,Medium,"Item prices live when the campaign isn't, or vice versa",item_end,2026-05-06,2026-05-12
+GT00083,promotion_item,PIT000286,header_item_date_mismatch,Medium,"Item prices live when the campaign isn't, or vice versa",item_end,2026-04-15,2026-04-24
+GT00084,promotion_item,PIT000027,header_item_date_mismatch,Medium,"Item prices live when the campaign isn't, or vice versa",item_end,2026-04-29,2026-05-03
+GT00085,promotion_item,PIT000416,header_item_date_mismatch,Medium,"Item prices live when the campaign isn't, or vice versa",item_end,2026-04-15,2026-04-18
+GT00086,promotion_item,PIT000462,header_item_date_mismatch,Medium,"Item prices live when the campaign isn't, or vice versa",item_end,2026-05-13,2026-05-17
+GT00087,promotion_item,PIT000439,header_item_date_mismatch,Medium,"Item prices live when the campaign isn't, or vice versa",item_end,2026-04-01,2026-04-03
+GT00088,promotion_item,PIT000203,header_item_date_mismatch,Medium,"Item prices live when the campaign isn't, or vice versa",item_end,2026-05-13,2026-05-22
+GT00089,promotion_item,PIT000202,header_item_date_mismatch,Medium,"Item prices live when the campaign isn't, or vice versa",item_end,2026-05-13,2026-05-16
+GT00090,promotion_item,PIT000374,header_item_date_mismatch,Medium,"Item prices live when the campaign isn't, or vice versa",item_end,2026-06-24,2026-06-29
+GT00091,promotion_item,PIT000343,header_item_date_mismatch,Medium,"Item prices live when the campaign isn't, or vice versa",item_end,2026-04-15,2026-04-18
+GT00092,promotion_item,PIT000326,header_item_date_mismatch,Medium,"Item prices live when the campaign isn't, or vice versa",item_end,2026-06-03,2026-06-12
+GT00093,promotion_item,PIT000172,header_item_date_mismatch,Medium,"Item prices live when the campaign isn't, or vice versa",item_end,2026-06-10,2026-06-13
+GT00094,promotion_item,PIT000330,header_item_date_mismatch,Medium,"Item prices live when the campaign isn't, or vice versa",item_end,2026-07-01,2026-07-07
+GT00095,promotion_item,PIT000164,header_item_date_mismatch,Medium,"Item prices live when the campaign isn't, or vice versa",item_end,2026-08-12,2026-08-21
+GT00096,promotion_item,PIT000134,header_item_date_mismatch,Medium,"Item prices live when the campaign isn't, or vice versa",item_end,2026-08-19,2026-08-25
+GT00097,promotion_item,PIT000252,header_item_date_mismatch,Medium,"Item prices live when the campaign isn't, or vice versa",item_end,2026-07-29,2026-08-07
+GT00098,promotion_item,PIT000309,header_item_date_mismatch,Medium,"Item prices live when the campaign isn't, or vice versa",item_end,2026-08-12,2026-08-21
+GT00099,promotion_item,PIT000446,header_item_date_mismatch,Medium,"Item prices live when the campaign isn't, or vice versa",item_end,2026-06-17,2026-06-25
+GT00100,promotion_item,PIT000002,header_item_date_mismatch,Medium,"Item prices live when the campaign isn't, or vice versa",item_end,2026-03-25,2026-04-01
+GT00101,promotion_item,PIT000386,header_item_date_mismatch,Medium,"Item prices live when the campaign isn't, or vice versa",item_end,2026-06-03,2026-06-09
+GT00102,promotion_item,PIT000283,header_item_date_mismatch,Medium,"Item prices live when the campaign isn't, or vice versa",item_end,2026-05-06,2026-05-12
+GT00103,promotion_item,PIT000375,header_item_date_mismatch,Medium,"Item prices live when the campaign isn't, or vice versa",item_end,2026-06-24,2026-07-02
+GT00104,promotion_item,PIT000037,header_item_date_mismatch,Medium,"Item prices live when the campaign isn't, or vice versa",item_end,2026-04-08,2026-04-13
+GT00105,promotion_item,PIT000259,header_item_date_mismatch,Medium,"Item prices live when the campaign isn't, or vice versa",item_end,2026-05-27,2026-06-05
+GT00106,promotion_item,PIT000074,header_item_date_mismatch,Medium,"Item prices live when the campaign isn't, or vice versa",item_end,2026-04-29,2026-05-08
+GT00107,promotion_item,PIT000491,header_item_date_mismatch,Medium,"Item prices live when the campaign isn't, or vice versa",item_end,2026-05-13,2026-05-17
+GT00108,promotion_header,PRM00056,orphaned_cancelled_header,Critical,Old promo price still charged at POS,approval_status,approved,cancelled (items still active)
+GT00109,promotion_header,PRM00046,orphaned_cancelled_header,Critical,Old promo price still charged at POS,approval_status,approved,cancelled (items still active)
+GT00110,promotion_header,PRM00012,orphaned_cancelled_header,Critical,Old promo price still charged at POS,approval_status,approved,cancelled (items still active)
+GT00111,promotion_header,PRM00040,orphaned_cancelled_header,Critical,Old promo price still charged at POS,approval_status,approved,cancelled (items still active)
+GT00112,promotion_header,PRM00089,orphaned_cancelled_header,Critical,Old promo price still charged at POS,approval_status,approved,cancelled (items still active)
+GT00113,promotion_header,PRM00019,orphaned_cancelled_header,Critical,Old promo price still charged at POS,approval_status,live,cancelled (items still active)
+GT00114,promotion_header,PRM00078,orphaned_cancelled_header,Critical,Old promo price still charged at POS,approval_status,approved,cancelled (items still active)
+GT00115,article_master,ART00555,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,base_uom,EA,PACK
+GT00116,article_master,ART00124,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,base_uom,EA,PACK
+GT00117,article_master,ART00482,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,base_uom,EA,PACK
+GT00118,article_master,ART00507,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,base_uom,EA,PACK
+GT00119,article_master,ART00095,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,base_uom,EA,PACK
+GT00120,article_master,ART00100,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,base_uom,EA,PACK
+GT00121,article_master,ART00013,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,base_uom,EA,PACK
+GT00122,article_master,ART00400,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,base_uom,EA,PACK
+GT00123,article_master,ART00388,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,base_uom,EA,PACK
+GT00124,article_master,ART00168,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,base_uom,EA,CTN
+GT00125,article_master,ART00501,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,base_uom,EA,CTN
+GT00126,article_master,ART00483,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,base_uom,EA,CTN
+GT00127,article_master,ART00494,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,base_uom,EA,CTN
+GT00128,article_master,ART00544,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,base_uom,EA,CTN
+GT00129,article_master,ART00571,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,base_uom,EA,CTN
+GT00130,article_master,ART00070,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,base_uom,EA,CTN
+GT00131,article_master,ART00187,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,base_uom,EA,CTN
+GT00132,article_master,ART00250,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,base_uom,EA,PACK
+GT00133,article_master,ART00429,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,base_uom,EA,CTN
+GT00134,article_master,ART00081,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,base_uom,EA,PACK
+GT00135,article_master,ART00293,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,base_uom,EA,CTN
+GT00136,article_master,ART00493,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,base_uom,EA,PACK
+GT00137,article_master,ART00101,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,base_uom,EA,PACK
+GT00138,article_master,ART00300,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,base_uom,EA,CTN
+GT00139,article_master,ART00040,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,base_uom,EA,CTN
+GT00140,article_master,ART00573,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,base_uom,EA,CTN
+GT00141,article_master,ART00317,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,base_uom,EA,PACK
+GT00142,promotion_item,PIT998115,tobacco_floor_breach,Critical,Regulatory / compliance breach,promo_price,floor=81.8,68.56
+GT00143,promotion_item,PIT992163,tobacco_floor_breach,Critical,Regulatory / compliance breach,promo_price,floor=73.32,53.1
+GT00144,promotion_item,PIT996106,tobacco_floor_breach,Critical,Regulatory / compliance breach,promo_price,floor=73.96,61.21
+GT00145,promotion_item,PIT993767,tobacco_floor_breach,Critical,Regulatory / compliance breach,promo_price,floor=31.61,28.8
+GT00146,promotion_item,PIT990396,tobacco_floor_breach,Critical,Regulatory / compliance breach,promo_price,floor=51.9,49.54
+GT00147,promotion_item,PIT999004,tobacco_floor_breach,Critical,Regulatory / compliance breach,promo_price,floor=32.12,28.35
+GT00148,promotion_item,PIT998539,tobacco_floor_breach,Critical,Regulatory / compliance breach,promo_price,floor=47.05,39.64
+GT00149,promotion_item,PIT000162,margin_breach,High,Unintended loss-making sale,promo_price,1.12,0.83
+GT00150,promotion_item,PIT000390,margin_breach,High,Unintended loss-making sale,promo_price,8.69,5.17
+GT00151,promotion_item,PIT000326,margin_breach,High,Unintended loss-making sale,promo_price,7.78,4.55
+GT00152,promotion_item,PIT000383,margin_breach,High,Unintended loss-making sale,promo_price,2.92,1.76
+GT00153,promotion_item,PIT000148,margin_breach,High,Unintended loss-making sale,promo_price,7.31,3.66
+GT00154,promotion_item,PIT000428,margin_breach,High,Unintended loss-making sale,promo_price,1.93,1.08
+GT00155,promotion_item,PIT000054,margin_breach,High,Unintended loss-making sale,promo_price,7.39,4.1
+GT00156,promotion_item,PIT000158,margin_breach,High,Unintended loss-making sale,promo_price,3.89,2.62
+GT00157,promotion_item,PIT000050,margin_breach,High,Unintended loss-making sale,promo_price,2.49,1.63
+GT00158,promotion_item,PIT000153,margin_breach,High,Unintended loss-making sale,promo_price,12.98,4.2
+GT00159,promotion_item,PIT000306,margin_breach,High,Unintended loss-making sale,promo_price,10.18,3.56
+GT00160,article_master,ART00059,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,barcode,9301000000597,9301000000592
+GT00161,article_master,ART00350,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,barcode,9301000003505,9301000003507
+GT00162,article_master,ART00114,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,barcode,9301000001143,9301000001140
+GT00163,article_master,ART00268,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,barcode,9301000002683,9301000002685
+GT00164,article_master,ART00368,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,barcode,9301000003680,9301000003686
+GT00165,article_master,ART00327,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,barcode,9301000003277,9301000003278
+GT00166,article_master,ART00523,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,barcode,9301000005233,9301000005239
+GT00167,article_master,ART00092,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,barcode,9301000000924,9301000000922
+GT00168,article_master,ART00396,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,barcode,9301000003963,9301000003969
+GT00169,article_master,ART00518,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,barcode,9301000005189,9301000005182
+GT00170,article_master,ART00408,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,barcode,9301000004083,9301000004080
+GT00171,article_master,ART00502,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,barcode,9301000005028,9301000005021
+GT00172,article_master,ART00585,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,barcode,9301000005851,9301000005858
+GT00173,article_master,ART00079,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,barcode,9301000000795,9301000000792
+GT00174,article_master,ART00596,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,barcode,9301000005967,9301000005961
+GT00175,article_master,ART00382,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,barcode,9301000003826,9301000003821
+GT00176,article_master,ART00388,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,barcode,9301000003888,9301000003885
+GT00177,article_master,ART00283,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,barcode,9301000002836,9301000002838
+GT00178,article_master,ART00199,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,barcode,9301000001990,9301000001991
+GT00179,article_master,ART00352,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,barcode,9301000003529,9301000003523
+GT00180,article_master,ART00221,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,barcode,9301000002218,9301000002210
+GT00181,article_master,ART00015,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,barcode,9301000000153,9301000000151
+GT00182,article_master,ART00375,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,barcode,9301000003758,9301000003755
+GT00183,article_master,ART00550,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,barcode,9301000005509,9301000005503
+GT00184,article_master,ART00148,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,barcode,9301000001488,9301000001481
+GT00185,article_master,ART00095,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,barcode,9301000000955,9301000000951
+GT00186,article_master,ART00124,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,barcode,9301000001242,9301000001246
+GT00187,article_master,ART00580,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,barcode,9301000005806,9301000005807
+GT00188,article_master,ART00094,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,barcode,9301000000948,9301000000944
+GT00189,article_master,ART00226,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,barcode,9301000002263,9301000002269
+GT00190,article_master,ART98394,duplicate_near_duplicate,Low,Split sales reporting; double replenishment,article_id,ART00167,ART98394
+GT00191,article_master,ART98640,duplicate_near_duplicate,Low,Split sales reporting; double replenishment,article_id,ART00449,ART98640
+GT00192,article_master,ART98184,duplicate_near_duplicate,Low,Split sales reporting; double replenishment,article_id,ART00128,ART98184
+GT00193,article_master,ART98758,duplicate_near_duplicate,Low,Split sales reporting; double replenishment,article_id,ART00159,ART98758
+GT00194,article_master,ART98756,duplicate_near_duplicate,Low,Split sales reporting; double replenishment,article_id,ART00137,ART98756
+GT00195,article_master,ART98720,duplicate_near_duplicate,Low,Split sales reporting; double replenishment,article_id,ART00036,ART98720
+GT00196,article_master,ART98444,duplicate_near_duplicate,Low,Split sales reporting; double replenishment,article_id,ART00448,ART98444
+GT00197,article_master,ART98377,duplicate_near_duplicate,Low,Split sales reporting; double replenishment,article_id,ART00394,ART98377
+GT00198,article_master,ART98419,duplicate_near_duplicate,Low,Split sales reporting; double replenishment,article_id,ART00555,ART98419
+GT00199,article_master,ART98033,duplicate_near_duplicate,Low,Split sales reporting; double replenishment,article_id,ART00493,ART98033
+GT00200,article_master,ART98843,duplicate_near_duplicate,Low,Split sales reporting; double replenishment,article_id,ART00216,ART98843
+GT00201,article_master,ART98541,duplicate_near_duplicate,Low,Split sales reporting; double replenishment,article_id,ART00450,ART98541
+GT00202,article_master,ART98387,duplicate_near_duplicate,Low,Split sales reporting; double replenishment,article_id,ART00426,ART98387
+GT00203,article_master,ART98547,duplicate_near_duplicate,Low,Split sales reporting; double replenishment,article_id,ART00194,ART98547
+GT00204,article_master,ART98720,duplicate_near_duplicate,Low,Split sales reporting; double replenishment,article_id,ART00318,ART98720
+GT00205,article_master,ART98381,duplicate_near_duplicate,Low,Split sales reporting; double replenishment,article_id,ART00039,ART98381
+GT00206,article_master,ART98829,duplicate_near_duplicate,Low,Split sales reporting; double replenishment,article_id,ART00478,ART98829
+GT00207,article_master,ART98918,duplicate_near_duplicate,Low,Split sales reporting; double replenishment,article_id,ART00113,ART98918
+GT00208,article_master,ART98387,duplicate_near_duplicate,Low,Split sales reporting; double replenishment,article_id,ART00308,ART98387
+GT00209,article_master,ART98137,duplicate_near_duplicate,Low,Split sales reporting; double replenishment,article_id,ART00304,ART98137
+GT00210,article_master,ART98759,duplicate_near_duplicate,Low,Split sales reporting; double replenishment,article_id,ART00447,ART98759
+GT00211,article_master,ART98991,duplicate_near_duplicate,Low,Split sales reporting; double replenishment,article_id,ART00482,ART98991
+GT00212,article_master,ART00329,completeness,Low,Downstream tax/finance and ordering errors,tax_code,GST,
+GT00213,article_master,ART00413,completeness,Low,Downstream tax/finance and ordering errors,tax_code,GST,
+GT00214,article_master,ART00155,completeness,Low,Downstream tax/finance and ordering errors,base_uom,EA,
+GT00215,article_master,ART00226,completeness,Low,Downstream tax/finance and ordering errors,tax_code,GST,
+GT00216,article_master,ART00465,completeness,Low,Downstream tax/finance and ordering errors,base_uom,L,
+GT00217,article_master,ART00587,completeness,Low,Downstream tax/finance and ordering errors,tax_code,GST,
+GT00218,article_master,ART00074,completeness,Low,Downstream tax/finance and ordering errors,tax_code,GST,
+GT00219,article_master,ART00354,completeness,Low,Downstream tax/finance and ordering errors,base_uom,L,
+GT00220,article_master,ART00264,completeness,Low,Downstream tax/finance and ordering errors,base_uom,EA,
+GT00221,article_master,ART00071,completeness,Low,Downstream tax/finance and ordering errors,base_uom,EA,
+GT00222,article_master,ART98758,completeness,Low,Downstream tax/finance and ordering errors,tax_code,GST,
+GT00223,article_master,ART00088,completeness,Low,Downstream tax/finance and ordering errors,base_uom,EA,
+GT00224,article_master,ART00574,completeness,Low,Downstream tax/finance and ordering errors,tax_code,GST,
+GT00225,article_master,ART00556,completeness,Low,Downstream tax/finance and ordering errors,base_uom,EA,
+GT00226,article_master,ART00549,completeness,Low,Downstream tax/finance and ordering errors,base_uom,EA,
+GT00227,article_master,ART00203,completeness,Low,Downstream tax/finance and ordering errors,base_uom,EA,
+GT00228,article_master,ART00428,completeness,Low,Downstream tax/finance and ordering errors,tax_code,GST,
+GT00229,article_master,ART00065,completeness,Low,Downstream tax/finance and ordering errors,tax_code,GST,
+GT00230,article_master,ART00108,completeness,Low,Downstream tax/finance and ordering errors,tax_code,GST_FREE,
+GT00231,article_master,ART00531,completeness,Low,Downstream tax/finance and ordering errors,base_uom,EA,
+GT00232,article_master,ART00109,completeness,Low,Downstream tax/finance and ordering errors,base_uom,EA,
+GT00233,article_master,ART00276,completeness,Low,Downstream tax/finance and ordering errors,base_uom,EA,
+GT00234,article_master,ART00055,completeness,Low,Downstream tax/finance and ordering errors,tax_code,GST,
+GT00235,article_master,ART00497,completeness,Low,Downstream tax/finance and ordering errors,tax_code,GST_FREE,
+GT00236,promotion_header,PRM00057,completeness,Low,Downstream tax/finance and ordering errors,approval_status,approved,
+GT00237,promotion_header,PRM00113,completeness,Low,Downstream tax/finance and ordering errors,approval_status,draft,
+GT00238,promotion_header,PRM00071,completeness,Low,Downstream tax/finance and ordering errors,approval_status,expired,
+GT00239,promotion_header,PRM00074,stale_status,Low,Expired promo still treated as active,approval_status,expired,live
+GT00240,promotion_header,PRM00106,stale_status,Low,Expired promo still treated as active,approval_status,expired,live
+GT00241,promotion_header,PRM00118,stale_status,Low,Expired promo still treated as active,approval_status,expired,live
+GT00242,promotion_header,PRM00063,stale_status,Low,Expired promo still treated as active,approval_status,expired,live
+GT00243,promotion_header,PRM00084,stale_status,Low,Expired promo still treated as active,approval_status,expired,live
+GT00244,promotion_header,PRM00055,stale_status,Low,Expired promo still treated as active,approval_status,expired,live
+GT00245,promotion_header,PRM00020,stale_status,Low,Expired promo still treated as active,approval_status,expired,live
+GT00246,promotion_header,PRM00023,stale_status,Low,Expired promo still treated as active,approval_status,expired,live
+GT00247,promotion_header,PRM00087,stale_status,Low,Expired promo still treated as active,approval_status,expired,live
+GT00248,promotion_header,PRM00093,stale_status,Low,Expired promo still treated as active,approval_status,expired,live
+GT00249,promotion_header,PRM00070,stale_status,Low,Expired promo still treated as active,approval_status,expired,live
+GT00250,promotion_header,PRM00053,stale_status,Low,Expired promo still treated as active,approval_status,expired,live
+GT00251,promotion_header,PRM00060,stale_status,Low,Expired promo still treated as active,approval_status,expired,live
