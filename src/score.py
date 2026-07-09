@@ -71,6 +71,7 @@ def main():
         })
 
     results_df = pd.DataFrame(results)
+    results_df.to_csv(os.path.join(DIRTY, "scorecard.csv"), index=False)
     print(results_df.to_string(index=False))
 
     tp_total = results_df.TP.sum()

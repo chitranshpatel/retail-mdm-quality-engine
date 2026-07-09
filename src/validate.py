@@ -1,7 +1,3 @@
-# 
-
-
-
 """
 validate.py — Validation rule engine. All 12 checks, final version.
 """
@@ -251,9 +247,33 @@ CHECKS = [
 ]
 
 
-def main():
+def main(write=True):
     t = load_dirty()
     all_exceptions = pd.concat([fn(t) for fn in CHECKS], ignore_index=True)
+
+    # attach store_group to each exception so the dashboard can show where
+    # problems concentrate. promo_item and promotion_header exceptions resolve
+    # via the header; article_master exceptions have no single store group.
+    items = t["promotion_item"][["promo_item_id", "promo_id"]]
+    headers = t["promotion_header"][["promo_id", "store_group"]]
+    item_sg = items.merge(headers, on="promo_id", how="left") \
+                   .set_index("promo_item_id")["store_group"].to_dict()
+    hdr_sg = headers.set_index("promo_id")["store_group"].to_dict()
+
+    def resolve_sg(r):
+        if r.table_name == "promotion_item":
+            return item_sg.get(r.record_id)
+        if r.table_name == "promotion_header":
+            return hdr_sg.get(r.record_id)
+        return None  # article_master: not store-group specific
+
+    all_exceptions["store_group"] = all_exceptions.apply(resolve_sg, axis=1)
+
+    if write:
+        out = os.path.join(DIRTY, "exceptions.csv")
+        all_exceptions.to_csv(out, index=False)
+        print(f"Wrote {len(all_exceptions)} exceptions -> {out}")
+
     print(f"Ran {len(CHECKS)} check(s). Found {len(all_exceptions)} exceptions.")
     return all_exceptions
 
