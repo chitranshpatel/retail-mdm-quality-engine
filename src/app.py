@@ -185,6 +185,18 @@ st.markdown(f"""
 
   section[data-testid="stSidebar"] {{ display: none; }}
 
+  /* Force the light theme regardless of the viewer's system/browser dark-mode
+     preference. This app's colour system (severity ramp, ink/muted text) was
+     designed and contrast-checked against a white canvas only -- letting
+     Streamlit's automatic dark theme override it would put near-black text on
+     a near-black background, which is unreadable, not just off-brand. */
+  [data-testid="stAppViewContainer"], [data-testid="stHeader"],
+  [data-testid="stMain"], .stApp, body {{
+    background-color: var(--canvas) !important;
+    color: var(--ink) !important;
+  }}
+  [data-testid="stMarkdownContainer"] p {{ color: inherit !important; }}
+
   @media (prefers-reduced-motion: reduce) {{
     * {{ animation: none !important; transition: none !important; }}
   }}
