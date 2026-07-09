@@ -1,0 +1,13 @@
+error_type,ground_truth,found,TP,FP,FN,precision,recall
+barcode_invalidity,30,30,30,0,0,1.0,1.0
+completeness,24,24,24,0,0,1.0,1.0
+duplicate_near_duplicate,21,25,21,4,0,0.84,1.0
+header_item_date_mismatch,29,29,29,0,0,1.0,1.0
+listing_conflict,23,23,23,0,0,1.0,1.0
+margin_breach,12,12,12,0,0,1.0,1.0
+orphaned_cancelled_header,7,7,7,0,0,1.0,1.0
+referential_integrity,29,29,29,0,0,1.0,1.0
+referential_timing,21,21,21,0,0,1.0,1.0
+stale_status,13,13,13,0,0,1.0,1.0
+tobacco_floor_breach,7,7,7,0,0,1.0,1.0
+uom_pack_mismatch,27,27,27,0,0,1.0,1.0

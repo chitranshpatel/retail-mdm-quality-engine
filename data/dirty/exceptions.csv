@@ -1,0 +1,301 @@
+table_name,record_id,error_type,severity,downstream_impact,description,store_group
+promotion_item,PIT000002,referential_integrity,Critical,Promo fails to load; price file rejects record,"promo_item PIT000002 references article_id 'ARTFAKE025', which does not exist in article_master.",SG_REGIONAL_25
+promotion_item,PIT000026,referential_integrity,Critical,Promo fails to load; price file rejects record,"promo_item PIT000026 references article_id 'ARTFAKE017', which does not exist in article_master.",SG_METRO_36
+promotion_item,PIT000058,referential_integrity,Critical,Promo fails to load; price file rejects record,"promo_item PIT000058 references article_id 'ARTFAKE022', which does not exist in article_master.",SG_HWY_34
+promotion_item,PIT000064,referential_integrity,Critical,Promo fails to load; price file rejects record,"promo_item PIT000064 references article_id 'ARTFAKE027', which does not exist in article_master.",SG_REGIONAL_09
+promotion_item,PIT000107,referential_integrity,Critical,Promo fails to load; price file rejects record,"promo_item PIT000107 references article_id 'ARTFAKE012', which does not exist in article_master.",SG_HWY_34
+promotion_item,PIT000126,referential_integrity,Critical,Promo fails to load; price file rejects record,"promo_item PIT000126 references article_id 'ARTFAKE020', which does not exist in article_master.",SG_CBD_07
+promotion_item,PIT000137,referential_integrity,Critical,Promo fails to load; price file rejects record,"promo_item PIT000137 references article_id 'ARTFAKE008', which does not exist in article_master.",SG_CBD_15
+promotion_item,PIT000144,referential_integrity,Critical,Promo fails to load; price file rejects record,"promo_item PIT000144 references article_id 'ARTFAKE002', which does not exist in article_master.",SG_CBD_07
+promotion_item,PIT000149,referential_integrity,Critical,Promo fails to load; price file rejects record,"promo_item PIT000149 references article_id 'ARTFAKE001', which does not exist in article_master.",SG_HWY_22
+promotion_item,PIT000168,referential_integrity,Critical,Promo fails to load; price file rejects record,"promo_item PIT000168 references article_id 'ARTFAKE018', which does not exist in article_master.",SG_REGIONAL_21
+promotion_item,PIT000221,referential_integrity,Critical,Promo fails to load; price file rejects record,"promo_item PIT000221 references article_id 'ARTFAKE006', which does not exist in article_master.",SG_METRO_24
+promotion_item,PIT000229,referential_integrity,Critical,Promo fails to load; price file rejects record,"promo_item PIT000229 references article_id 'ARTFAKE023', which does not exist in article_master.",SG_CBD_27
+promotion_item,PIT000238,referential_integrity,Critical,Promo fails to load; price file rejects record,"promo_item PIT000238 references article_id 'ARTFAKE026', which does not exist in article_master.",SG_HWY_38
+promotion_item,PIT000242,referential_integrity,Critical,Promo fails to load; price file rejects record,"promo_item PIT000242 references article_id 'ARTFAKE028', which does not exist in article_master.",SG_METRO_24
+promotion_item,PIT000274,referential_integrity,Critical,Promo fails to load; price file rejects record,"promo_item PIT000274 references article_id 'ARTFAKE009', which does not exist in article_master.",SG_REGIONAL_29
+promotion_item,PIT000295,referential_integrity,Critical,Promo fails to load; price file rejects record,"promo_item PIT000295 references article_id 'ARTFAKE011', which does not exist in article_master.",SG_METRO_36
+promotion_item,PIT000323,referential_integrity,Critical,Promo fails to load; price file rejects record,"promo_item PIT000323 references article_id 'ARTFAKE014', which does not exist in article_master.",SG_CBD_15
+promotion_item,PIT000356,referential_integrity,Critical,Promo fails to load; price file rejects record,"promo_item PIT000356 references article_id 'ARTFAKE024', which does not exist in article_master.",SG_REGIONAL_05
+promotion_item,PIT000369,referential_integrity,Critical,Promo fails to load; price file rejects record,"promo_item PIT000369 references article_id 'ARTFAKE005', which does not exist in article_master.",SG_METRO_00
+promotion_item,PIT000388,referential_integrity,Critical,Promo fails to load; price file rejects record,"promo_item PIT000388 references article_id 'ARTFAKE000', which does not exist in article_master.",SG_METRO_12
+promotion_item,PIT000397,referential_integrity,Critical,Promo fails to load; price file rejects record,"promo_item PIT000397 references article_id 'ARTFAKE019', which does not exist in article_master.",SG_HWY_10
+promotion_item,PIT000399,referential_integrity,Critical,Promo fails to load; price file rejects record,"promo_item PIT000399 references article_id 'ARTFAKE021', which does not exist in article_master.",SG_CBD_23
+promotion_item,PIT000400,referential_integrity,Critical,Promo fails to load; price file rejects record,"promo_item PIT000400 references article_id 'ARTFAKE015', which does not exist in article_master.",SG_REGIONAL_21
+promotion_item,PIT000421,referential_integrity,Critical,Promo fails to load; price file rejects record,"promo_item PIT000421 references article_id 'ARTFAKE007', which does not exist in article_master.",SG_REGIONAL_05
+promotion_item,PIT000425,referential_integrity,Critical,Promo fails to load; price file rejects record,"promo_item PIT000425 references article_id 'ARTFAKE016', which does not exist in article_master.",SG_CBD_19
+promotion_item,PIT000440,referential_integrity,Critical,Promo fails to load; price file rejects record,"promo_item PIT000440 references article_id 'ARTFAKE013', which does not exist in article_master.",SG_CBD_27
+promotion_item,PIT000445,referential_integrity,Critical,Promo fails to load; price file rejects record,"promo_item PIT000445 references article_id 'ARTFAKE010', which does not exist in article_master.",SG_HWY_06
+promotion_item,PIT000492,referential_integrity,Critical,Promo fails to load; price file rejects record,"promo_item PIT000492 references article_id 'ARTFAKE004', which does not exist in article_master.",SG_METRO_16
+promotion_item,PIT000493,referential_integrity,Critical,Promo fails to load; price file rejects record,"promo_item PIT000493 references article_id 'ARTFAKE003', which does not exist in article_master.",SG_METRO_16
+promotion_item,PIT000001,referential_timing,High,Promo advertised on an article stores can no longer order,"promo_item PIT000001 promotes article 'ART00165', discontinued on 2026-04-29, before the promo item started on 2026-06-04.",SG_REGIONAL_09
+promotion_item,PIT000005,referential_timing,High,Promo advertised on an article stores can no longer order,"promo_item PIT000005 promotes article 'ART00147', discontinued on 2026-02-06, before the promo item started on 2026-03-19.",SG_REGIONAL_25
+promotion_item,PIT000019,referential_timing,High,Promo advertised on an article stores can no longer order,"promo_item PIT000019 promotes article 'ART00279', discontinued on 2026-03-04, before the promo item started on 2026-04-02.",SG_METRO_32
+promotion_item,PIT000024,referential_timing,High,Promo advertised on an article stores can no longer order,"promo_item PIT000024 promotes article 'ART00125', discontinued on 2026-04-22, before the promo item started on 2026-08-13.",SG_METRO_36
+promotion_item,PIT000028,referential_timing,High,Promo advertised on an article stores can no longer order,"promo_item PIT000028 promotes article 'ART00279', discontinued on 2026-03-04, before the promo item started on 2026-04-23.",SG_METRO_24
+promotion_item,PIT000047,referential_timing,High,Promo advertised on an article stores can no longer order,"promo_item PIT000047 promotes article 'ART00279', discontinued on 2026-03-04, before the promo item started on 2026-03-26.",SG_CBD_03
+promotion_item,PIT000060,referential_timing,High,Promo advertised on an article stores can no longer order,"promo_item PIT000060 promotes article 'ART00125', discontinued on 2026-04-22, before the promo item started on 2026-04-30.",SG_CBD_27
+promotion_item,PIT000069,referential_timing,High,Promo advertised on an article stores can no longer order,"promo_item PIT000069 promotes article 'ART00221', discontinued on 2026-03-25, before the promo item started on 2026-05-07.",SG_REGIONAL_09
+promotion_item,PIT000076,referential_timing,High,Promo advertised on an article stores can no longer order,"promo_item PIT000076 promotes article 'ART00501', discontinued on 2026-03-12, before the promo item started on 2026-04-23.",SG_METRO_12
+promotion_item,PIT000093,referential_timing,High,Promo advertised on an article stores can no longer order,"promo_item PIT000093 promotes article 'ART00125', discontinued on 2026-04-22, before the promo item started on 2026-05-21.",SG_METRO_36
+promotion_item,PIT000098,referential_timing,High,Promo advertised on an article stores can no longer order,"promo_item PIT000098 promotes article 'ART00333', discontinued on 2026-08-17, before the promo item started on 2026-08-27.",SG_REGIONAL_09
+promotion_item,PIT000106,referential_timing,High,Promo advertised on an article stores can no longer order,"promo_item PIT000106 promotes article 'ART00221', discontinued on 2026-03-25, before the promo item started on 2026-07-02.",SG_HWY_34
+promotion_item,PIT000119,referential_timing,High,Promo advertised on an article stores can no longer order,"promo_item PIT000119 promotes article 'ART00550', discontinued on 2026-05-06, before the promo item started on 2026-07-02.",SG_CBD_03
+promotion_item,PIT000127,referential_timing,High,Promo advertised on an article stores can no longer order,"promo_item PIT000127 promotes article 'ART00174', discontinued on 2026-04-04, before the promo item started on 2026-05-14.",SG_CBD_07
+promotion_item,PIT000136,referential_timing,High,Promo advertised on an article stores can no longer order,"promo_item PIT000136 promotes article 'ART00159', discontinued on 2026-05-19, before the promo item started on 2026-08-13.",SG_CBD_19
+promotion_item,PIT000181,referential_timing,High,Promo advertised on an article stores can no longer order,"promo_item PIT000181 promotes article 'ART00111', discontinued on 2026-03-06, before the promo item started on 2026-03-19.",SG_METRO_16
+promotion_item,PIT000210,referential_timing,High,Promo advertised on an article stores can no longer order,"promo_item PIT000210 promotes article 'ART00251', discontinued on 2026-05-22, before the promo item started on 2026-06-18.",SG_REGIONAL_37
+promotion_item,PIT000220,referential_timing,High,Promo advertised on an article stores can no longer order,"promo_item PIT000220 promotes article 'ART00251', discontinued on 2026-05-22, before the promo item started on 2026-08-20.",SG_CBD_15
+promotion_item,PIT000223,referential_timing,High,Promo advertised on an article stores can no longer order,"promo_item PIT000223 promotes article 'ART00501', discontinued on 2026-03-12, before the promo item started on 2026-08-27.",SG_METRO_28
+promotion_item,PIT000230,referential_timing,High,Promo advertised on an article stores can no longer order,"promo_item PIT000230 promotes article 'ART00111', discontinued on 2026-03-06, before the promo item started on 2026-06-18.",SG_CBD_27
+promotion_item,PIT000241,referential_timing,High,Promo advertised on an article stores can no longer order,"promo_item PIT000241 promotes article 'ART00084', discontinued on 2026-04-20, before the promo item started on 2026-05-28.",SG_METRO_24
+promotion_item,PIT000245,referential_timing,High,Promo advertised on an article stores can no longer order,"promo_item PIT000245 promotes article 'ART00360', discontinued on 2026-03-12, before the promo item started on 2026-04-30.",SG_HWY_14
+promotion_item,PIT000262,referential_timing,High,Promo advertised on an article stores can no longer order,"promo_item PIT000262 promotes article 'ART00165', discontinued on 2026-04-29, before the promo item started on 2026-04-30.",SG_CBD_15
+promotion_item,PIT000266,referential_timing,High,Promo advertised on an article stores can no longer order,"promo_item PIT000266 promotes article 'ART00458', discontinued on 2026-06-07, before the promo item started on 2026-07-02.",SG_HWY_30
+promotion_item,PIT000285,referential_timing,High,Promo advertised on an article stores can no longer order,"promo_item PIT000285 promotes article 'ART00279', discontinued on 2026-03-04, before the promo item started on 2026-04-09.",SG_REGIONAL_37
+promotion_item,PIT000293,referential_timing,High,Promo advertised on an article stores can no longer order,"promo_item PIT000293 promotes article 'ART00174', discontinued on 2026-04-04, before the promo item started on 2026-05-21.",SG_REGIONAL_25
+promotion_item,PIT000299,referential_timing,High,Promo advertised on an article stores can no longer order,"promo_item PIT000299 promotes article 'ART00159', discontinued on 2026-05-19, before the promo item started on 2026-07-16.",SG_REGIONAL_33
+promotion_item,PIT000305,referential_timing,High,Promo advertised on an article stores can no longer order,"promo_item PIT000305 promotes article 'ART00486', discontinued on 2026-06-18, before the promo item started on 2026-07-23.",SG_REGIONAL_13
+promotion_item,PIT000315,referential_timing,High,Promo advertised on an article stores can no longer order,"promo_item PIT000315 promotes article 'ART00458', discontinued on 2026-06-07, before the promo item started on 2026-07-02.",SG_CBD_03
+promotion_item,PIT000329,referential_timing,High,Promo advertised on an article stores can no longer order,"promo_item PIT000329 promotes article 'ART00334', discontinued on 2026-05-23, before the promo item started on 2026-06-18.",SG_REGIONAL_09
+promotion_item,PIT000337,referential_timing,High,Promo advertised on an article stores can no longer order,"promo_item PIT000337 promotes article 'ART00095', discontinued on 2026-06-02, before the promo item started on 2026-07-09.",SG_CBD_03
+promotion_item,PIT000353,referential_timing,High,Promo advertised on an article stores can no longer order,"promo_item PIT000353 promotes article 'ART00221', discontinued on 2026-03-25, before the promo item started on 2026-04-23.",SG_REGIONAL_05
+promotion_item,PIT000360,referential_timing,High,Promo advertised on an article stores can no longer order,"promo_item PIT000360 promotes article 'ART00125', discontinued on 2026-04-22, before the promo item started on 2026-08-06.",SG_CBD_27
+promotion_item,PIT000386,referential_timing,High,Promo advertised on an article stores can no longer order,"promo_item PIT000386 promotes article 'ART00251', discontinued on 2026-05-22, before the promo item started on 2026-05-28.",SG_METRO_12
+promotion_item,PIT000410,referential_timing,High,Promo advertised on an article stores can no longer order,"promo_item PIT000410 promotes article 'ART00251', discontinued on 2026-05-22, before the promo item started on 2026-08-13.",SG_CBD_15
+promotion_item,PIT000411,referential_timing,High,Promo advertised on an article stores can no longer order,"promo_item PIT000411 promotes article 'ART00255', discontinued on 2026-07-07, before the promo item started on 2026-08-13.",SG_CBD_15
+promotion_item,PIT000431,referential_timing,High,Promo advertised on an article stores can no longer order,"promo_item PIT000431 promotes article 'ART00255', discontinued on 2026-07-07, before the promo item started on 2026-07-30.",SG_REGIONAL_09
+promotion_item,PIT000471,referential_timing,High,Promo advertised on an article stores can no longer order,"promo_item PIT000471 promotes article 'ART00250', discontinued on 2026-03-07, before the promo item started on 2026-04-02.",SG_CBD_23
+promotion_item,PIT000479,referential_timing,High,Promo advertised on an article stores can no longer order,"promo_item PIT000479 promotes article 'ART00236', discontinued on 2026-03-02, before the promo item started on 2026-03-19.",SG_CBD_19
+promotion_item,PIT000487,referential_timing,High,Promo advertised on an article stores can no longer order,"promo_item PIT000487 promotes article 'ART00221', discontinued on 2026-03-25, before the promo item started on 2026-07-23.",SG_METRO_12
+promotion_item,PIT000003,listing_conflict,High,Advertised deal a customer physically can't buy in that store,"promo_item PIT000003 promotes article 'ART00299' in store_group 'SG_REGIONAL_25', but the article isn't listed there.",SG_REGIONAL_25
+promotion_item,PIT000007,listing_conflict,High,Advertised deal a customer physically can't buy in that store,"promo_item PIT000007 promotes article 'ART00076' in store_group 'SG_REGIONAL_25', but the article isn't listed there.",SG_REGIONAL_25
+promotion_item,PIT000025,listing_conflict,High,Advertised deal a customer physically can't buy in that store,"promo_item PIT000025 promotes article 'ART00270' in store_group 'SG_METRO_36', but the article isn't listed there.",SG_METRO_36
+promotion_item,PIT000045,listing_conflict,High,Advertised deal a customer physically can't buy in that store,"promo_item PIT000045 promotes article 'ART00388' in store_group 'SG_CBD_03', but the article isn't listed there.",SG_CBD_03
+promotion_item,PIT000046,listing_conflict,High,Advertised deal a customer physically can't buy in that store,"promo_item PIT000046 promotes article 'ART00486' in store_group 'SG_CBD_03', but the article isn't listed there.",SG_CBD_03
+promotion_item,PIT000065,listing_conflict,High,Advertised deal a customer physically can't buy in that store,"promo_item PIT000065 promotes article 'ART00519' in store_group 'SG_REGIONAL_17', but the article isn't listed there.",SG_REGIONAL_17
+promotion_item,PIT000071,listing_conflict,High,Advertised deal a customer physically can't buy in that store,"promo_item PIT000071 promotes article 'ART00133' in store_group 'SG_REGIONAL_09', but the article isn't listed there.",SG_REGIONAL_09
+promotion_item,PIT000104,listing_conflict,High,Advertised deal a customer physically can't buy in that store,"promo_item PIT000104 promotes article 'ART00451' in store_group 'SG_HWY_34', but the article isn't listed there.",SG_HWY_34
+promotion_item,PIT000114,listing_conflict,High,Advertised deal a customer physically can't buy in that store,"promo_item PIT000114 promotes article 'ART00254' in store_group 'SG_REGIONAL_33', but the article isn't listed there.",SG_REGIONAL_33
+promotion_item,PIT000147,listing_conflict,High,Advertised deal a customer physically can't buy in that store,"promo_item PIT000147 promotes article 'ART00131' in store_group 'SG_CBD_35', but the article isn't listed there.",SG_CBD_35
+promotion_item,PIT000171,listing_conflict,High,Advertised deal a customer physically can't buy in that store,"promo_item PIT000171 promotes article 'ART00173' in store_group 'SG_REGIONAL_21', but the article isn't listed there.",SG_REGIONAL_21
+promotion_item,PIT000187,listing_conflict,High,Advertised deal a customer physically can't buy in that store,"promo_item PIT000187 promotes article 'ART00334' in store_group 'SG_REGIONAL_09', but the article isn't listed there.",SG_REGIONAL_09
+promotion_item,PIT000194,listing_conflict,High,Advertised deal a customer physically can't buy in that store,"promo_item PIT000194 promotes article 'ART00100' in store_group 'SG_CBD_27', but the article isn't listed there.",SG_CBD_27
+promotion_item,PIT000196,listing_conflict,High,Advertised deal a customer physically can't buy in that store,"promo_item PIT000196 promotes article 'ART00138' in store_group 'SG_CBD_27', but the article isn't listed there.",SG_CBD_27
+promotion_item,PIT000210,listing_conflict,High,Advertised deal a customer physically can't buy in that store,"promo_item PIT000210 promotes article 'ART00251' in store_group 'SG_REGIONAL_37', but the article isn't listed there.",SG_REGIONAL_37
+promotion_item,PIT000245,listing_conflict,High,Advertised deal a customer physically can't buy in that store,"promo_item PIT000245 promotes article 'ART00360' in store_group 'SG_HWY_14', but the article isn't listed there.",SG_HWY_14
+promotion_item,PIT000264,listing_conflict,High,Advertised deal a customer physically can't buy in that store,"promo_item PIT000264 promotes article 'ART00068' in store_group 'SG_HWY_30', but the article isn't listed there.",SG_HWY_30
+promotion_item,PIT000267,listing_conflict,High,Advertised deal a customer physically can't buy in that store,"promo_item PIT000267 promotes article 'ART00070' in store_group 'SG_HWY_30', but the article isn't listed there.",SG_HWY_30
+promotion_item,PIT000328,listing_conflict,High,Advertised deal a customer physically can't buy in that store,"promo_item PIT000328 promotes article 'ART00094' in store_group 'SG_REGIONAL_09', but the article isn't listed there.",SG_REGIONAL_09
+promotion_item,PIT000329,listing_conflict,High,Advertised deal a customer physically can't buy in that store,"promo_item PIT000329 promotes article 'ART00334' in store_group 'SG_REGIONAL_09', but the article isn't listed there.",SG_REGIONAL_09
+promotion_item,PIT000431,listing_conflict,High,Advertised deal a customer physically can't buy in that store,"promo_item PIT000431 promotes article 'ART00255' in store_group 'SG_REGIONAL_09', but the article isn't listed there.",SG_REGIONAL_09
+promotion_item,PIT000463,listing_conflict,High,Advertised deal a customer physically can't buy in that store,"promo_item PIT000463 promotes article 'ART00102' in store_group 'SG_REGIONAL_01', but the article isn't listed there.",SG_REGIONAL_01
+promotion_item,PIT000470,listing_conflict,High,Advertised deal a customer physically can't buy in that store,"promo_item PIT000470 promotes article 'ART00342' in store_group 'SG_CBD_23', but the article isn't listed there.",SG_CBD_23
+promotion_item,PIT000012,header_item_date_mismatch,Medium,"Item prices live when the campaign isn't, or vice versa","promo_item PIT000012 runs 2026-05-07 to 2026-05-17, outside header window 2026-05-07 to 2026-05-13.",SG_METRO_32
+promotion_item,PIT000014,header_item_date_mismatch,Medium,"Item prices live when the campaign isn't, or vice versa","promo_item PIT000014 runs 2026-08-13 to 2026-08-27, outside header window 2026-08-13 to 2026-08-19.",SG_HWY_10
+promotion_item,PIT000018,header_item_date_mismatch,Medium,"Item prices live when the campaign isn't, or vice versa","promo_item PIT000018 runs 2026-08-13 to 2026-08-22, outside header window 2026-08-13 to 2026-08-19.",SG_HWY_10
+promotion_item,PIT000026,header_item_date_mismatch,Medium,"Item prices live when the campaign isn't, or vice versa","promo_item PIT000026 runs 2026-08-13 to 2026-08-25, outside header window 2026-08-13 to 2026-08-19.",SG_METRO_36
+promotion_item,PIT000028,header_item_date_mismatch,Medium,"Item prices live when the campaign isn't, or vice versa","promo_item PIT000028 runs 2026-04-23 to 2026-05-07, outside header window 2026-04-23 to 2026-04-29.",SG_METRO_24
+promotion_item,PIT000054,header_item_date_mismatch,Medium,"Item prices live when the campaign isn't, or vice versa","promo_item PIT000054 runs 2026-07-30 to 2026-08-10, outside header window 2026-07-30 to 2026-08-05.",SG_REGIONAL_25
+promotion_item,PIT000060,header_item_date_mismatch,Medium,"Item prices live when the campaign isn't, or vice versa","promo_item PIT000060 runs 2026-04-30 to 2026-05-14, outside header window 2026-04-30 to 2026-05-06.",SG_CBD_27
+promotion_item,PIT000101,header_item_date_mismatch,Medium,"Item prices live when the campaign isn't, or vice versa","promo_item PIT000101 runs 2026-08-27 to 2026-09-05, outside header window 2026-08-20 to 2026-09-02.",SG_REGIONAL_09
+promotion_item,PIT000113,header_item_date_mismatch,Medium,"Item prices live when the campaign isn't, or vice versa","promo_item PIT000113 runs 2026-04-16 to 2026-04-24, outside header window 2026-04-16 to 2026-04-22.",SG_REGIONAL_33
+promotion_item,PIT000156,header_item_date_mismatch,Medium,"Item prices live when the campaign isn't, or vice versa","promo_item PIT000156 runs 2026-03-26 to 2026-04-11, outside header window 2026-03-26 to 2026-04-08.",SG_CBD_27
+promotion_item,PIT000177,header_item_date_mismatch,Medium,"Item prices live when the campaign isn't, or vice versa","promo_item PIT000177 runs 2026-07-30 to 2026-08-29, outside header window 2026-07-30 to 2026-08-26.",SG_METRO_24
+promotion_item,PIT000183,header_item_date_mismatch,Medium,"Item prices live when the campaign isn't, or vice versa","promo_item PIT000183 runs 2026-03-19 to 2026-04-02, outside header window 2026-03-19 to 2026-03-25.",SG_METRO_16
+promotion_item,PIT000194,header_item_date_mismatch,Medium,"Item prices live when the campaign isn't, or vice versa","promo_item PIT000194 runs 2026-06-25 to 2026-07-08, outside header window 2026-06-25 to 2026-07-01.",SG_CBD_27
+promotion_item,PIT000206,header_item_date_mismatch,Medium,"Item prices live when the campaign isn't, or vice versa","promo_item PIT000206 runs 2026-04-30 to 2026-05-20, outside header window 2026-04-30 to 2026-05-13.",SG_METRO_24
+promotion_item,PIT000217,header_item_date_mismatch,Medium,"Item prices live when the campaign isn't, or vice versa","promo_item PIT000217 runs 2026-03-19 to 2026-04-01, outside header window 2026-03-19 to 2026-03-25.",SG_REGIONAL_21
+promotion_item,PIT000225,header_item_date_mismatch,Medium,"Item prices live when the campaign isn't, or vice versa","promo_item PIT000225 runs 2026-08-27 to 2026-09-12, outside header window 2026-08-27 to 2026-09-09.",SG_METRO_28
+promotion_item,PIT000231,header_item_date_mismatch,Medium,"Item prices live when the campaign isn't, or vice versa","promo_item PIT000231 runs 2026-06-18 to 2026-07-02, outside header window 2026-06-18 to 2026-06-24.",SG_CBD_27
+promotion_item,PIT000265,header_item_date_mismatch,Medium,"Item prices live when the campaign isn't, or vice versa","promo_item PIT000265 runs 2026-07-02 to 2026-07-19, outside header window 2026-07-02 to 2026-07-15.",SG_HWY_30
+promotion_item,PIT000272,header_item_date_mismatch,Medium,"Item prices live when the campaign isn't, or vice versa","promo_item PIT000272 runs 2026-06-18 to 2026-07-24, outside header window 2026-06-18 to 2026-07-15.",SG_CBD_39
+promotion_item,PIT000340,header_item_date_mismatch,Medium,"Item prices live when the campaign isn't, or vice versa","promo_item PIT000340 runs 2026-04-09 to 2026-04-22, outside header window 2026-04-09 to 2026-04-15.",SG_METRO_00
+promotion_item,PIT000353,header_item_date_mismatch,Medium,"Item prices live when the campaign isn't, or vice versa","promo_item PIT000353 runs 2026-04-23 to 2026-05-04, outside header window 2026-04-23 to 2026-04-29.",SG_REGIONAL_05
+promotion_item,PIT000366,header_item_date_mismatch,Medium,"Item prices live when the campaign isn't, or vice versa","promo_item PIT000366 runs 2026-08-06 to 2026-08-20, outside header window 2026-07-30 to 2026-08-12.",SG_REGIONAL_33
+promotion_item,PIT000367,header_item_date_mismatch,Medium,"Item prices live when the campaign isn't, or vice versa","promo_item PIT000367 runs 2026-07-30 to 2026-08-17, outside header window 2026-07-30 to 2026-08-12.",SG_REGIONAL_33
+promotion_item,PIT000396,header_item_date_mismatch,Medium,"Item prices live when the campaign isn't, or vice versa","promo_item PIT000396 runs 2026-05-07 to 2026-05-29, outside header window 2026-05-07 to 2026-05-20.",SG_HWY_10
+promotion_item,PIT000420,header_item_date_mismatch,Medium,"Item prices live when the campaign isn't, or vice versa","promo_item PIT000420 runs 2026-08-13 to 2026-08-27, outside header window 2026-08-13 to 2026-08-19.",SG_REGIONAL_05
+promotion_item,PIT000449,header_item_date_mismatch,Medium,"Item prices live when the campaign isn't, or vice versa","promo_item PIT000449 runs 2026-06-11 to 2026-06-26, outside header window 2026-06-11 to 2026-06-17.",SG_METRO_36
+promotion_item,PIT000464,header_item_date_mismatch,Medium,"Item prices live when the campaign isn't, or vice versa","promo_item PIT000464 runs 2026-08-20 to 2026-08-28, outside header window 2026-08-20 to 2026-08-26.",SG_REGIONAL_09
+promotion_item,PIT000465,header_item_date_mismatch,Medium,"Item prices live when the campaign isn't, or vice versa","promo_item PIT000465 runs 2026-08-20 to 2026-08-28, outside header window 2026-08-20 to 2026-08-26.",SG_REGIONAL_09
+promotion_item,PIT000481,header_item_date_mismatch,Medium,"Item prices live when the campaign isn't, or vice versa","promo_item PIT000481 runs 2026-08-06 to 2026-08-15, outside header window 2026-08-06 to 2026-08-12.",SG_REGIONAL_29
+promotion_item,PIT000128,orphaned_cancelled_header,Critical,Old promo price still charged at POS,"promo_item PIT000128's header (PRM00030) is cancelled, but the item still runs until 2026-08-26.",SG_METRO_32
+promotion_item,PIT000129,orphaned_cancelled_header,Critical,Old promo price still charged at POS,"promo_item PIT000129's header (PRM00030) is cancelled, but the item still runs until 2026-08-26.",SG_METRO_32
+promotion_item,PIT000130,orphaned_cancelled_header,Critical,Old promo price still charged at POS,"promo_item PIT000130's header (PRM00030) is cancelled, but the item still runs until 2026-08-26.",SG_METRO_32
+promotion_item,PIT000131,orphaned_cancelled_header,Critical,Old promo price still charged at POS,"promo_item PIT000131's header (PRM00030) is cancelled, but the item still runs until 2026-08-26.",SG_METRO_32
+promotion_item,PIT000162,orphaned_cancelled_header,Critical,Old promo price still charged at POS,"promo_item PIT000162's header (PRM00040) is cancelled, but the item still runs until 2026-08-12.",SG_CBD_07
+promotion_item,PIT000163,orphaned_cancelled_header,Critical,Old promo price still charged at POS,"promo_item PIT000163's header (PRM00040) is cancelled, but the item still runs until 2026-08-12.",SG_CBD_07
+promotion_item,PIT000164,orphaned_cancelled_header,Critical,Old promo price still charged at POS,"promo_item PIT000164's header (PRM00040) is cancelled, but the item still runs until 2026-08-12.",SG_CBD_07
+promotion_item,PIT000165,orphaned_cancelled_header,Critical,Old promo price still charged at POS,"promo_item PIT000165's header (PRM00040) is cancelled, but the item still runs until 2026-08-12.",SG_CBD_07
+promotion_item,PIT000166,orphaned_cancelled_header,Critical,Old promo price still charged at POS,"promo_item PIT000166's header (PRM00040) is cancelled, but the item still runs until 2026-08-12.",SG_CBD_07
+promotion_item,PIT000167,orphaned_cancelled_header,Critical,Old promo price still charged at POS,"promo_item PIT000167's header (PRM00040) is cancelled, but the item still runs until 2026-08-12.",SG_CBD_07
+promotion_item,PIT000188,orphaned_cancelled_header,Critical,Old promo price still charged at POS,"promo_item PIT000188's header (PRM00046) is cancelled, but the item still runs until 2026-07-15.",SG_HWY_34
+promotion_item,PIT000189,orphaned_cancelled_header,Critical,Old promo price still charged at POS,"promo_item PIT000189's header (PRM00046) is cancelled, but the item still runs until 2026-07-15.",SG_HWY_34
+promotion_item,PIT000190,orphaned_cancelled_header,Critical,Old promo price still charged at POS,"promo_item PIT000190's header (PRM00046) is cancelled, but the item still runs until 2026-07-15.",SG_HWY_34
+promotion_item,PIT000191,orphaned_cancelled_header,Critical,Old promo price still charged at POS,"promo_item PIT000191's header (PRM00046) is cancelled, but the item still runs until 2026-07-15.",SG_HWY_34
+promotion_item,PIT000269,orphaned_cancelled_header,Critical,Old promo price still charged at POS,"promo_item PIT000269's header (PRM00068) is cancelled, but the item still runs until 2026-07-15.",SG_CBD_39
+promotion_item,PIT000270,orphaned_cancelled_header,Critical,Old promo price still charged at POS,"promo_item PIT000270's header (PRM00068) is cancelled, but the item still runs until 2026-07-15.",SG_CBD_39
+promotion_item,PIT000271,orphaned_cancelled_header,Critical,Old promo price still charged at POS,"promo_item PIT000271's header (PRM00068) is cancelled, but the item still runs until 2026-07-15.",SG_CBD_39
+promotion_item,PIT000272,orphaned_cancelled_header,Critical,Old promo price still charged at POS,"promo_item PIT000272's header (PRM00068) is cancelled, but the item still runs until 2026-07-24.",SG_CBD_39
+promotion_item,PIT000273,orphaned_cancelled_header,Critical,Old promo price still charged at POS,"promo_item PIT000273's header (PRM00068) is cancelled, but the item still runs until 2026-07-15.",SG_CBD_39
+promotion_item,PIT000345,orphaned_cancelled_header,Critical,Old promo price still charged at POS,"promo_item PIT000345's header (PRM00085) is cancelled, but the item still runs until 2026-07-22.",SG_CBD_27
+promotion_item,PIT000346,orphaned_cancelled_header,Critical,Old promo price still charged at POS,"promo_item PIT000346's header (PRM00085) is cancelled, but the item still runs until 2026-07-22.",SG_CBD_27
+promotion_item,PIT000363,orphaned_cancelled_header,Critical,Old promo price still charged at POS,"promo_item PIT000363's header (PRM00089) is cancelled, but the item still runs until 2026-08-12.",SG_REGIONAL_33
+promotion_item,PIT000364,orphaned_cancelled_header,Critical,Old promo price still charged at POS,"promo_item PIT000364's header (PRM00089) is cancelled, but the item still runs until 2026-08-12.",SG_REGIONAL_33
+promotion_item,PIT000365,orphaned_cancelled_header,Critical,Old promo price still charged at POS,"promo_item PIT000365's header (PRM00089) is cancelled, but the item still runs until 2026-08-12.",SG_REGIONAL_33
+promotion_item,PIT000366,orphaned_cancelled_header,Critical,Old promo price still charged at POS,"promo_item PIT000366's header (PRM00089) is cancelled, but the item still runs until 2026-08-20.",SG_REGIONAL_33
+promotion_item,PIT000367,orphaned_cancelled_header,Critical,Old promo price still charged at POS,"promo_item PIT000367's header (PRM00089) is cancelled, but the item still runs until 2026-08-17.",SG_REGIONAL_33
+promotion_item,PIT000368,orphaned_cancelled_header,Critical,Old promo price still charged at POS,"promo_item PIT000368's header (PRM00089) is cancelled, but the item still runs until 2026-08-12.",SG_REGIONAL_33
+promotion_item,PIT000457,orphaned_cancelled_header,Critical,Old promo price still charged at POS,"promo_item PIT000457's header (PRM00110) is cancelled, but the item still runs until 2026-08-12.",SG_HWY_38
+promotion_item,PIT000458,orphaned_cancelled_header,Critical,Old promo price still charged at POS,"promo_item PIT000458's header (PRM00110) is cancelled, but the item still runs until 2026-08-12.",SG_HWY_38
+promotion_item,PIT000015,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,"promo_item PIT000015 uses multibuy on article 'ART00099', sold as PACK, not EA.",SG_HWY_10
+promotion_item,PIT000016,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,"promo_item PIT000016 uses multibuy on article 'ART00479', sold as CTN, not EA.",SG_HWY_10
+promotion_item,PIT000033,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,"promo_item PIT000033 uses multibuy on article 'ART00515', sold as PACK, not EA.",SG_REGIONAL_17
+promotion_item,PIT000045,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,"promo_item PIT000045 uses multibuy on article 'ART00388', sold as CTN, not EA.",SG_CBD_03
+promotion_item,PIT000055,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,"promo_item PIT000055 uses multibuy on article 'ART00416', sold as PACK, not EA.",SG_HWY_34
+promotion_item,PIT000061,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,"promo_item PIT000061 uses multibuy on article 'ART00416', sold as PACK, not EA.",SG_CBD_27
+promotion_item,PIT000083,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,"promo_item PIT000083 uses multibuy on article 'ART00130', sold as PACK, not EA.",SG_CBD_19
+promotion_item,PIT000134,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,"promo_item PIT000134 uses multibuy on article 'ART00179', sold as CTN, not EA.",SG_CBD_19
+promotion_item,PIT000146,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,"promo_item PIT000146 uses multibuy on article 'ART00316', sold as CTN, not EA.",SG_CBD_07
+promotion_item,PIT000153,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,"promo_item PIT000153 uses multibuy on article 'ART00456', sold as CTN, not EA.",SG_CBD_27
+promotion_item,PIT000163,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,"promo_item PIT000163 uses multibuy on article 'ART00063', sold as PACK, not EA.",SG_CBD_07
+promotion_item,PIT000172,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,"promo_item PIT000172 uses multibuy on article 'ART00229', sold as CTN, not EA.",SG_CBD_11
+promotion_item,PIT000176,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,"promo_item PIT000176 uses multibuy on article 'ART00415', sold as PACK, not EA.",SG_CBD_11
+promotion_item,PIT000214,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,"promo_item PIT000214 uses multibuy on article 'ART00218', sold as CTN, not EA.",SG_REGIONAL_21
+promotion_item,PIT000215,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,"promo_item PIT000215 uses multibuy on article 'ART00037', sold as PACK, not EA.",SG_REGIONAL_21
+promotion_item,PIT000217,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,"promo_item PIT000217 uses multibuy on article 'ART00400', sold as PACK, not EA.",SG_REGIONAL_21
+promotion_item,PIT000227,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,"promo_item PIT000227 uses multibuy on article 'ART00571', sold as CTN, not EA.",SG_REGIONAL_21
+promotion_item,PIT000231,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,"promo_item PIT000231 uses multibuy on article 'ART00573', sold as PACK, not EA.",SG_CBD_27
+promotion_item,PIT000267,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,"promo_item PIT000267 uses multibuy on article 'ART00070', sold as CTN, not EA.",SG_HWY_30
+promotion_item,PIT000271,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,"promo_item PIT000271 uses multibuy on article 'ART00564', sold as PACK, not EA.",SG_CBD_39
+promotion_item,PIT000280,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,"promo_item PIT000280 uses multibuy on article 'ART00479', sold as CTN, not EA.",SG_METRO_00
+promotion_item,PIT000288,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,"promo_item PIT000288 uses multibuy on article 'ART00400', sold as PACK, not EA.",SG_REGIONAL_37
+promotion_item,PIT000294,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,"promo_item PIT000294 uses multibuy on article 'ART00479', sold as CTN, not EA.",SG_METRO_36
+promotion_item,PIT000301,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,"promo_item PIT000301 uses multibuy on article 'ART00352', sold as CTN, not EA.",SG_REGIONAL_33
+promotion_item,PIT000306,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,"promo_item PIT000306 uses multibuy on article 'ART00107', sold as CTN, not EA.",SG_REGIONAL_13
+promotion_item,PIT000318,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,"promo_item PIT000318 uses multibuy on article 'ART00263', sold as PACK, not EA.",SG_CBD_03
+promotion_item,PIT000324,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,"promo_item PIT000324 uses multibuy on article 'ART00101', sold as PACK, not EA.",SG_CBD_15
+promotion_item,PIT000331,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,"promo_item PIT000331 uses multibuy on article 'ART00400', sold as PACK, not EA.",SG_REGIONAL_09
+promotion_item,PIT000346,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,"promo_item PIT000346 uses multibuy on article 'ART00369', sold as PACK, not EA.",SG_CBD_27
+promotion_item,PIT000367,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,"promo_item PIT000367 uses multibuy on article 'ART00376', sold as CTN, not EA.",SG_REGIONAL_33
+promotion_item,PIT000376,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,"promo_item PIT000376 uses multibuy on article 'ART00544', sold as PACK, not EA.",SG_CBD_03
+promotion_item,PIT000396,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,"promo_item PIT000396 uses multibuy on article 'ART00479', sold as CTN, not EA.",SG_HWY_10
+promotion_item,PIT000470,uom_pack_mismatch,Medium,Mechanic can't be applied; POS error,"promo_item PIT000470 uses multibuy on article 'ART00342', sold as CTN, not EA.",SG_CBD_23
+promotion_item,PIT99500,tobacco_on_promotion,Critical,Regulatory / compliance breach: tobacco promotion is not legal in Australia,promo_item PIT99500 promotes tobacco article 'ART00539'.,SG_CBD_39
+promotion_item,PIT99501,tobacco_on_promotion,Critical,Regulatory / compliance breach: tobacco promotion is not legal in Australia,promo_item PIT99501 promotes tobacco article 'ART00536'.,SG_REGIONAL_13
+promotion_item,PIT99502,tobacco_on_promotion,Critical,Regulatory / compliance breach: tobacco promotion is not legal in Australia,promo_item PIT99502 promotes tobacco article 'ART00462'.,SG_METRO_24
+promotion_item,PIT99503,tobacco_on_promotion,Critical,Regulatory / compliance breach: tobacco promotion is not legal in Australia,promo_item PIT99503 promotes tobacco article 'ART00059'.,SG_REGIONAL_29
+promotion_item,PIT99504,tobacco_on_promotion,Critical,Regulatory / compliance breach: tobacco promotion is not legal in Australia,promo_item PIT99504 promotes tobacco article 'ART00463'.,SG_METRO_24
+promotion_item,PIT99505,tobacco_on_promotion,Critical,Regulatory / compliance breach: tobacco promotion is not legal in Australia,promo_item PIT99505 promotes tobacco article 'ART00560'.,SG_CBD_39
+promotion_item,PIT99506,tobacco_on_promotion,Critical,Regulatory / compliance breach: tobacco promotion is not legal in Australia,promo_item PIT99506 promotes tobacco article 'ART00588'.,SG_METRO_28
+promotion_item,PIT000011,margin_breach,High,Unintended loss-making sale,"promo_item PIT000011 prices article 'ART00409' at $2.49, below cost $2.91.",SG_METRO_32
+promotion_item,PIT000016,margin_breach,High,Unintended loss-making sale,"promo_item PIT000016 prices article 'ART00479' at $3.43, below cost $3.86.",SG_HWY_10
+promotion_item,PIT000039,margin_breach,High,Unintended loss-making sale,"promo_item PIT000039 prices article 'ART00049' at $1.95, below cost $3.07.",SG_CBD_15
+promotion_item,PIT000049,margin_breach,High,Unintended loss-making sale,"promo_item PIT000049 prices article 'ART00175' at $2.36, below cost $2.81.",SG_CBD_03
+promotion_item,PIT000051,margin_breach,High,Unintended loss-making sale,"promo_item PIT000051 prices article 'ART00266' at $2.93, below cost $4.21.",SG_METRO_24
+promotion_item,PIT000071,margin_breach,High,Unintended loss-making sale,"promo_item PIT000071 prices article 'ART00133' at $2.15, below cost $2.73.",SG_REGIONAL_09
+promotion_item,PIT000106,margin_breach,High,Unintended loss-making sale,"promo_item PIT000106 prices article 'ART00221' at $3.99, below cost $5.16.",SG_HWY_34
+promotion_item,PIT000152,margin_breach,High,Unintended loss-making sale,"promo_item PIT000152 prices article 'ART00159' at $3.84, below cost $4.58.",SG_CBD_27
+promotion_item,PIT000228,margin_breach,High,Unintended loss-making sale,"promo_item PIT000228 prices article 'ART00545' at $1.17, below cost $1.78.",SG_REGIONAL_21
+promotion_item,PIT000281,margin_breach,High,Unintended loss-making sale,"promo_item PIT000281 prices article 'ART00391' at $4.69, below cost $6.69.",SG_METRO_00
+promotion_item,PIT000331,margin_breach,High,Unintended loss-making sale,"promo_item PIT000331 prices article 'ART00400' at $1.89, below cost $3.07.",SG_REGIONAL_09
+promotion_item,PIT000434,margin_breach,High,Unintended loss-making sale,"promo_item PIT000434 prices article 'ART00298' at $3.68, below cost $6.02.",SG_REGIONAL_09
+article_master,ART00030,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,"article 'ART00030' has barcode '9301000000309', invalid check digit.",
+article_master,ART00056,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,"article 'ART00056' has barcode '9301000000567', invalid check digit.",
+article_master,ART00074,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,"article 'ART00074' has barcode '9301000000743', invalid check digit.",
+article_master,ART00115,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,"article 'ART00115' has barcode '9301000001152', invalid check digit.",
+article_master,ART00155,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,"article 'ART00155' has barcode '9301000001557', invalid check digit.",
+article_master,ART00172,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,"article 'ART00172' has barcode '9301000001725', invalid check digit.",
+article_master,ART00175,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,"article 'ART00175' has barcode '9301000001756', invalid check digit.",
+article_master,ART00179,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,"article 'ART00179' has barcode '9301000001798', invalid check digit.",
+article_master,ART00226,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,"article 'ART00226' has barcode '9301000002269', invalid check digit.",
+article_master,ART00250,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,"article 'ART00250' has barcode '9301000002503', invalid check digit.",
+article_master,ART00269,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,"article 'ART00269' has barcode '9301000002695', invalid check digit.",
+article_master,ART00290,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,"article 'ART00290' has barcode '9301000002907', invalid check digit.",
+article_master,ART00336,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,"article 'ART00336' has barcode '9301000003363', invalid check digit.",
+article_master,ART00342,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,"article 'ART00342' has barcode '9301000003427', invalid check digit.",
+article_master,ART00359,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,"article 'ART00359' has barcode '9301000003595', invalid check digit.",
+article_master,ART00375,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,"article 'ART00375' has barcode '9301000003753', invalid check digit.",
+article_master,ART00376,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,"article 'ART00376' has barcode '9301000003761', invalid check digit.",
+article_master,ART00379,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,"article 'ART00379' has barcode '9301000003793', invalid check digit.",
+article_master,ART00392,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,"article 'ART00392' has barcode '9301000003927', invalid check digit.",
+article_master,ART00410,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,"article 'ART00410' has barcode '9301000004103', invalid check digit.",
+article_master,ART00436,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,"article 'ART00436' has barcode '9301000004364', invalid check digit.",
+article_master,ART00444,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,"article 'ART00444' has barcode '9301000004446', invalid check digit.",
+article_master,ART00459,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,"article 'ART00459' has barcode '9301000004597', invalid check digit.",
+article_master,ART00469,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,"article 'ART00469' has barcode '9301000004698', invalid check digit.",
+article_master,ART00479,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,"article 'ART00479' has barcode '9301000004796', invalid check digit.",
+article_master,ART00482,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,"article 'ART00482' has barcode '9301000004826', invalid check digit.",
+article_master,ART00492,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,"article 'ART00492' has barcode '9301000004928', invalid check digit.",
+article_master,ART00495,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,"article 'ART00495' has barcode '9301000004950', invalid check digit.",
+article_master,ART00513,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,"article 'ART00513' has barcode '9301000005139', invalid check digit.",
+article_master,ART00544,barcode_invalidity,Critical,Won't scan at POS; scan-and-go / self-checkout failure,"article 'ART00544' has barcode '9301000005442', invalid check digit.",
+article_master,ART99017,duplicate_near_duplicate,Low,Split sales reporting; double replenishment,"article 'ART99017' looks like a near-duplicate of 'ART00113', similarity 100%.",
+article_master,ART99005,duplicate_near_duplicate,Low,Split sales reporting; double replenishment,"article 'ART99005' looks like a near-duplicate of 'ART00435', similarity 100%.",
+article_master,ART99010,duplicate_near_duplicate,Low,Split sales reporting; double replenishment,"article 'ART99010' looks like a near-duplicate of 'ART00506', similarity 100%.",
+article_master,ART99010,duplicate_near_duplicate,Low,Split sales reporting; double replenishment,"article 'ART99010' looks like a near-duplicate of 'ART00507', similarity 100%.",
+article_master,ART99010,duplicate_near_duplicate,Low,Split sales reporting; double replenishment,"article 'ART99010' looks like a near-duplicate of 'ART00508', similarity 100%.",
+article_master,ART99010,duplicate_near_duplicate,Low,Split sales reporting; double replenishment,"article 'ART99010' looks like a near-duplicate of 'ART00509', similarity 100%.",
+article_master,ART99000,duplicate_near_duplicate,Low,Split sales reporting; double replenishment,"article 'ART99000' looks like a near-duplicate of 'ART00530', similarity 100%.",
+article_master,ART00468,duplicate_near_duplicate,Low,Split sales reporting; double replenishment,"article 'ART00468' looks like a near-duplicate of 'ART00005', similarity 100%.",
+article_master,ART99014,duplicate_near_duplicate,Low,Split sales reporting; double replenishment,"article 'ART99014' looks like a near-duplicate of 'ART00041', similarity 100%.",
+article_master,ART99019,duplicate_near_duplicate,Low,Split sales reporting; double replenishment,"article 'ART99019' looks like a near-duplicate of 'ART00044', similarity 100%.",
+article_master,ART99019,duplicate_near_duplicate,Low,Split sales reporting; double replenishment,"article 'ART99019' looks like a near-duplicate of 'ART00045', similarity 100%.",
+article_master,ART99019,duplicate_near_duplicate,Low,Split sales reporting; double replenishment,"article 'ART99019' looks like a near-duplicate of 'ART00046', similarity 100%.",
+article_master,ART99019,duplicate_near_duplicate,Low,Split sales reporting; double replenishment,"article 'ART99019' looks like a near-duplicate of 'ART00047', similarity 100%.",
+article_master,ART99016,duplicate_near_duplicate,Low,Split sales reporting; double replenishment,"article 'ART99016' looks like a near-duplicate of 'ART00171', similarity 100%.",
+article_master,ART99007,duplicate_near_duplicate,Low,Split sales reporting; double replenishment,"article 'ART99007' looks like a near-duplicate of 'ART00184', similarity 100%.",
+article_master,ART99009,duplicate_near_duplicate,Low,Split sales reporting; double replenishment,"article 'ART99009' looks like a near-duplicate of 'ART00293', similarity 100%.",
+article_master,ART99008,duplicate_near_duplicate,Low,Split sales reporting; double replenishment,"article 'ART99008' looks like a near-duplicate of 'ART00438', similarity 100%.",
+article_master,ART99015,duplicate_near_duplicate,Low,Split sales reporting; double replenishment,"article 'ART99015' looks like a near-duplicate of 'ART00072', similarity 100%.",
+article_master,ART99018,duplicate_near_duplicate,Low,Split sales reporting; double replenishment,"article 'ART99018' looks like a near-duplicate of 'ART00158', similarity 100%.",
+article_master,ART00461,duplicate_near_duplicate,Low,Split sales reporting; double replenishment,"article 'ART00461' looks like a near-duplicate of 'ART00265', similarity 100%.",
+article_master,ART99006,duplicate_near_duplicate,Low,Split sales reporting; double replenishment,"article 'ART99006' looks like a near-duplicate of 'ART00073', similarity 100%.",
+article_master,ART99002,duplicate_near_duplicate,Low,Split sales reporting; double replenishment,"article 'ART99002' looks like a near-duplicate of 'ART00090', similarity 100%.",
+article_master,ART00382,duplicate_near_duplicate,Low,Split sales reporting; double replenishment,"article 'ART00382' looks like a near-duplicate of 'ART00096', similarity 100%.",
+article_master,ART99012,duplicate_near_duplicate,Low,Split sales reporting; double replenishment,"article 'ART99012' looks like a near-duplicate of 'ART00378', similarity 100%.",
+article_master,ART99011,duplicate_near_duplicate,Low,Split sales reporting; double replenishment,"article 'ART99011' looks like a near-duplicate of 'ART00445', similarity 100%.",
+article_master,ART99013,duplicate_near_duplicate,Low,Split sales reporting; double replenishment,"article 'ART99013' looks like a near-duplicate of 'ART00452', similarity 100%.",
+article_master,ART00262,duplicate_near_duplicate,Low,Split sales reporting; double replenishment,"article 'ART00262' looks like a near-duplicate of 'ART00109', similarity 100%.",
+article_master,ART99004,duplicate_near_duplicate,Low,Split sales reporting; double replenishment,"article 'ART99004' looks like a near-duplicate of 'ART00500', similarity 100%.",
+article_master,ART99003,duplicate_near_duplicate,Low,Split sales reporting; double replenishment,"article 'ART99003' looks like a near-duplicate of 'ART00504', similarity 100%.",
+article_master,ART99001,duplicate_near_duplicate,Low,Split sales reporting; double replenishment,"article 'ART99001' looks like a near-duplicate of 'ART00540', similarity 100%.",
+article_master,ART99020,duplicate_near_duplicate,Low,Split sales reporting; double replenishment,"article 'ART99020' looks like a near-duplicate of 'ART00589', similarity 100%.",
+article_master,ART00028,completeness,Low,Downstream tax/finance and ordering errors,article 'ART00028' missing: tax_code.,
+article_master,ART00048,completeness,Low,Downstream tax/finance and ordering errors,article 'ART00048' missing: base_uom.,
+article_master,ART00067,completeness,Low,Downstream tax/finance and ordering errors,article 'ART00067' missing: tax_code.,
+article_master,ART00071,completeness,Low,Downstream tax/finance and ordering errors,article 'ART00071' missing: tax_code.,
+article_master,ART00103,completeness,Low,Downstream tax/finance and ordering errors,article 'ART00103' missing: base_uom.,
+article_master,ART00187,completeness,Low,Downstream tax/finance and ordering errors,article 'ART00187' missing: tax_code.,
+article_master,ART00234,completeness,Low,Downstream tax/finance and ordering errors,article 'ART00234' missing: base_uom.,
+article_master,ART00237,completeness,Low,Downstream tax/finance and ordering errors,article 'ART00237' missing: base_uom.,
+article_master,ART00262,completeness,Low,Downstream tax/finance and ordering errors,article 'ART00262' missing: tax_code.,
+article_master,ART00357,completeness,Low,Downstream tax/finance and ordering errors,article 'ART00357' missing: base_uom.,
+article_master,ART00374,completeness,Low,Downstream tax/finance and ordering errors,article 'ART00374' missing: base_uom.,
+article_master,ART00377,completeness,Low,Downstream tax/finance and ordering errors,article 'ART00377' missing: tax_code.,
+article_master,ART00385,completeness,Low,Downstream tax/finance and ordering errors,article 'ART00385' missing: tax_code.,
+article_master,ART00425,completeness,Low,Downstream tax/finance and ordering errors,article 'ART00425' missing: base_uom.,
+article_master,ART00465,completeness,Low,Downstream tax/finance and ordering errors,article 'ART00465' missing: tax_code.,
+article_master,ART00467,completeness,Low,Downstream tax/finance and ordering errors,article 'ART00467' missing: base_uom.,
+article_master,ART00472,completeness,Low,Downstream tax/finance and ordering errors,article 'ART00472' missing: tax_code.,
+article_master,ART00505,completeness,Low,Downstream tax/finance and ordering errors,article 'ART00505' missing: tax_code.,
+article_master,ART00519,completeness,Low,Downstream tax/finance and ordering errors,article 'ART00519' missing: base_uom.,
+article_master,ART00557,completeness,Low,Downstream tax/finance and ordering errors,article 'ART00557' missing: base_uom.,
+article_master,ART00588,completeness,Low,Downstream tax/finance and ordering errors,article 'ART00588' missing: base_uom.,
+promotion_header,PRM00016,completeness,Low,Downstream tax/finance and ordering errors,promotion_header 'PRM00016' missing approval_status.,SG_REGIONAL_17
+promotion_header,PRM00038,completeness,Low,Downstream tax/finance and ordering errors,promotion_header 'PRM00038' missing approval_status.,SG_REGIONAL_05
+promotion_header,PRM00084,completeness,Low,Downstream tax/finance and ordering errors,promotion_header 'PRM00084' missing approval_status.,SG_METRO_00
+promotion_header,PRM00007,stale_status,Low,Expired promo still treated as active,promotion_header 'PRM00007' marked live but header_end (2026-04-29) has passed.,SG_METRO_24
+promotion_header,PRM00008,stale_status,Low,Expired promo still treated as active,promotion_header 'PRM00008' marked live but header_end (2026-04-08) has passed.,SG_REGIONAL_17
+promotion_header,PRM00010,stale_status,Low,Expired promo still treated as active,promotion_header 'PRM00010' marked live but header_end (2026-04-01) has passed.,SG_CBD_03
+promotion_header,PRM00015,stale_status,Low,Expired promo still treated as active,promotion_header 'PRM00015' marked live but header_end (2026-04-08) has passed.,SG_REGIONAL_09
+promotion_header,PRM00020,stale_status,Low,Expired promo still treated as active,promotion_header 'PRM00020' marked live but header_end (2026-06-24) has passed.,SG_CBD_19
+promotion_header,PRM00033,stale_status,Low,Expired promo still treated as active,promotion_header 'PRM00033' marked live but header_end (2026-06-17) has passed.,SG_HWY_38
+promotion_header,PRM00042,stale_status,Low,Expired promo still treated as active,promotion_header 'PRM00042' marked live but header_end (2026-06-10) has passed.,SG_CBD_11
+promotion_header,PRM00060,stale_status,Low,Expired promo still treated as active,promotion_header 'PRM00060' marked live but header_end (2026-06-03) has passed.,SG_METRO_24
+promotion_header,PRM00070,stale_status,Low,Expired promo still treated as active,promotion_header 'PRM00070' marked live but header_end (2026-05-06) has passed.,SG_METRO_00
+promotion_header,PRM00094,stale_status,Low,Expired promo still treated as active,promotion_header 'PRM00094' marked live but header_end (2026-03-25) has passed.,SG_REGIONAL_37
+promotion_header,PRM00111,stale_status,Low,Expired promo still treated as active,promotion_header 'PRM00111' marked live but header_end (2026-06-17) has passed.,SG_METRO_00
+promotion_header,PRM00114,stale_status,Low,Expired promo still treated as active,promotion_header 'PRM00114' marked live but header_end (2026-04-15) has passed.,SG_CBD_23
+promotion_header,PRM00118,stale_status,Low,Expired promo still treated as active,promotion_header 'PRM00118' marked live but header_end (2026-05-13) has passed.,SG_METRO_16
